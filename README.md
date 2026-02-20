@@ -3,6 +3,7 @@
 **Roblux** is a platform for Roblox players to mint, trade, and redeem digital collectibles in a simple, transparent, and user-friendly way.
 
 CA : 9nMiKQsS8vPdXxVJ8aERYugKXK4sXkAeG67YpgBDpump
+Link Pump.fun (https://pump.fun/coin/9nMiKQsS8vPdXxVJ8aERYugKXK4sXkAeG67YpgBDpump)
 
 ## Features
 
